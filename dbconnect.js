@@ -1,5 +1,9 @@
 hello
 
 Updating the code in development branch
+<<<<<<< HEAD
 
-Updating master file branch
+dUpdating master file branch
+=======
+updated db
+>>>>>>> development
